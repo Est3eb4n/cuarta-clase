@@ -1,0 +1,25 @@
+.gen{
+  display:flex;
+}
+.hob{
+  position: relative;
+  left: 200px;
+  bottom: 90px;
+}
+.direc{
+  width: 375px;
+}
+input{
+  border-radius: 6px;
+  margin: 5px;
+}
+#boton{
+  border-radius: 6px;
+  margin: 5px;
+}
+.res{
+  background: #f12;
+}
+.sub{
+  background: #3b5;
+}
